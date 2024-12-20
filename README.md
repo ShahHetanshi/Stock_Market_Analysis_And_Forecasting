@@ -56,10 +56,13 @@ Training data and loss:
 
 # Decription for User-Interface:
 
-> run the .py as streamlit run stock_market_analysis_UI.py
+> run the .py as streamlit run stock_market_analysis_UI.py.
 > the website would be running on the localhost and there you can upload any of the files (.csv) for the stock predictions and the model would be applied on it and lastly a Linear Regression is applied.
+
 ![Screenshot (162)](https://github.com/user-attachments/assets/14296134-92ee-4f6c-a2c8-f1671261f737)
+
 ![Screenshot (163)](https://github.com/user-attachments/assets/7c0686b7-b920-45f9-a7a3-015e47177f8c)
+
 ![Screenshot (164)](https://github.com/user-attachments/assets/4e0317ce-ed90-4224-aec6-8b2ae312639e)
 
 
